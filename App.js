@@ -11,7 +11,7 @@ import StoreGifts from "./comps/screens/storegifts";
 import TopUsers from "./comps/screens/topusers";
 
 const Stack = createNativeStackNavigator();
-// Ortal
+
 export default function App() {
   return (
    
